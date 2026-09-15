@@ -1,9 +1,9 @@
-TP 2 - Tableaux en Java
+# TP 2 - Tableaux en Java
 
-Cours : Fondamentaux et Concepts Avancés de la Programmation Java
+Cours : Fondamentaux et Concepts Avancés de la Programmation Java  
 Ce TP contient 10 exercices sur la manipulation de tableaux (1D et 2D) : sous-séquences, sommes, parcours de matrices, et algorithmes classiques (Kadane, Boyer-Moore).
 
-Objectifs
+## Objectifs
 
 - Manipuler des tableaux d'entiers à une et deux dimensions
 - Concevoir des algorithmes en programmation dynamique
@@ -11,16 +11,16 @@ Objectifs
 - Comprendre et implémenter des algorithmes classiques (Kadane, Boyer-Moore)
 - Analyser la complexité temporelle et spatiale de chaque solution
 
-Prérequis
+## Prérequis
 
 - JDK installé (version 8 ou supérieure)
-- Un IDE (Eclipse, IntelliJ, VS Code) ou un terminal avec javac et java
+- Un IDE (Eclipse, IntelliJ, VS Code) ou un terminal avec `javac` et `java`
 
-Compilation et exécution
+## Compilation et exécution
 
-Chaque exercice est une classe indépendante avec son propre main, regroupée dans le package tp2.
+Chaque exercice est une classe indépendante avec son propre `main`, regroupée dans le package `tp2`.
 
-Exercice 1 : Plus longue sous-séquence strictly croissante (LIS)
+### Exercice 1 : Plus longue sous-séquence strictement croissante (LIS)
 
 Trouver la longueur de la plus longue sous-séquence strictement croissante d'un tableau, et reconstruire une séquence atteignant cette longueur, en utilisant la programmation dynamique.
 
