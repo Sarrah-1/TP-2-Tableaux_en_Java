@@ -90,7 +90,7 @@ Concepts mobilisés
 ### Démo vidéo
 Une seule vidéo montre l'exécution des 10 exercices, dans l'ordre.
 
-
+https://github.com/user-attachments/assets/24ad0096-778e-42e7-862b-7825e26ce69d
 
 Auteur
 
